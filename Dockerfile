@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:latest
 MAINTAINER Vali Malinoiu <0x4139@gmail.com>
 
 #install java 8
