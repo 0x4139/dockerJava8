@@ -1,6 +1,6 @@
 # Debian Java8 docker image
 
-java8 in a docker container based on the lightweight debian image
+java8 jre u40 in a docker container based on the lightweight debian image
 
 ## Usage
 
