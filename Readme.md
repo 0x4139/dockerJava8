@@ -1,6 +1,6 @@
 # Ubuntu Java8 docker image
 
-Oracle java8 jre u40 in a docker container based on the lightweight ubuntu image
+Oracle java8 jre u45 in a docker container based on the lightweight ubuntu image
 
 ## Usage
 
